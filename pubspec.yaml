@@ -23,6 +23,8 @@ dependencies:
   google_sign_in: ^6.2.2
   geolocator: ^13.0.2
   geocoding: ^3.0.0
+  dio: ^5.7.0
+  supabase_flutter: ^2.8.1
 
 dev_dependencies:
   flutter_test:
